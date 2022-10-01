@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**ozlmdmrl/ozlmdmrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **ozlmdmrl/ozlmdmrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on Front End projects
 - 🌱 I have experience in HTML, CSS; currently learning Bootstrap, JavaScript and React JS
